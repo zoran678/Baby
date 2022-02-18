@@ -1,0 +1,15 @@
+.heading
+{
+    margin-top: 0;
+    width: 100%;
+}
+h3
+{
+   margin: 2px;
+}
+canvas
+{
+  border: 5px solid white;
+  box-shadow: 5px 5px 5px white;
+  margin-top: 100px;
+}
